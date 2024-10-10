@@ -38,3 +38,47 @@ Before you begin, ensure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/yourusername/crud-application.git
+
+Navigate to the project directory:
+bash
+Copy code
+cd crud-application
+Install the required dependencies:
+Backend:
+
+bash
+Copy code
+cd backend
+npm install
+Frontend:
+
+bash
+Copy code
+cd frontend
+npm install
+Usage
+User Authentication
+Sign Up: Register a new user by providing a username, email, and password.
+Log In: Log in to your account using existing credentials to access product management features.
+AddItem
+After logging in, navigate to the product management page.
+Click on the Add Item button to create a new product entry by filling in the product name, description, and price.
+EditItem
+Navigate to the product you wish to edit.
+Click the Edit button, modify the product details, and save the changes.
+DeleteItem
+Navigate to the product you want to delete.
+Click the Delete button to permanently remove the item from the list.
+Components
+User Authentication:
+
+Register and log in functionality using JWT-based authentication.
+Add Item:
+
+Create a new product and add it to the database.
+Edit Item:
+
+Update the product details like name, price, and description.
+Delete Item:
+
+Remove products from the list using the delete option.
