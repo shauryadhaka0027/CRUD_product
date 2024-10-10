@@ -3,7 +3,7 @@
 Welcome to our CRUD Application! This platform allows users to browse and manage products with full **CRUD** functionality, including user authentication, adding items, viewing items, editing, and deleting them.
 
 ## DEPLOY LINK
-- [Live Application](https://crudapplicationdha02.netlify.app)
+- [Live Application](https://product-client-repo.vercel.app/)
 
 ## Table of Contents
 - [Features](#features)
